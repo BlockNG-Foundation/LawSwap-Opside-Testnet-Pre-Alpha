@@ -1,0 +1,54 @@
+[
+  {
+    "address": "0x0D4a642D109e2A8e5A29E9Bf0Bb9eE0835CdFED7",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-Opside-Testnet-Pre-Alpha/main/tokens/0x0D4a642D109e2A8e5A29E9Bf0Bb9eE0835CdFED7.svg",
+    "name": "LAWTOKEN",
+    "symbol": "LAW",
+    "decimals": 18,
+    "telegram": "https://t.me/BlockNGGlobal",
+    "websites": ["https://blockng.money/"]
+  },
+  {
+    "address": "",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-Opside-Testnet-Pre-Alpha/main/tokens/0x4a56cF1dC528C04DEe7638B69417Bec6884BFac7.svg",
+    "name": "IDE",
+    "symbol": "IDE",
+    "decimals": 18
+  },
+  {
+    "name": "LAW Entropy",
+    "address": "0x652b3671bcdDc1615a6Ce4b8A6dA256324Eec427",
+    "symbol": "lawETP",
+    "decimals": 18,
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-Opside-Testnet-Pre-Alpha/main/tokens/0x652b3671bcdDc1615a6Ce4b8A6dA256324Eec427.svg",
+    "websites": ["https://blockng.money/"],
+    "telegram": "https://t.me/BlockNGGlobal",
+    "desc": "The universe is destined for thermodynamic equilibrium — maximum entropy."
+  },
+  {
+    "name": "LAW US Dollar",
+    "desc": "Stablecoin of LAW Ecosystem",
+    "address": "0xb9f252a731B5fd3536FdFB9047D84C8A8d63bc88",
+    "symbol": "lawUSD",
+    "decimals": 18,
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-Opside-Testnet-Pre-Alpha/main/tokens/0xb9f252a731B5fd3536FdFB9047D84C8A8d63bc88.svg",
+    "websites": ["https://blockng.money/"],
+    "telegram": "https://t.me/BlockNGGlobal",
+    "twitter": "https://twitter.com/BlockngO/",
+    "github": "https://github.com/BlockNG-Foundation"
+  },
+  {
+    "address": "0x4a56cF1dC528C04DEe7638B69417Bec6884BFac7",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-Opside-Testnet-Pre-Alpha/main/tokens/0x4a56cF1dC528C04DEe7638B69417Bec6884BFac7.svg",
+    "name": "Wrapped IDE",
+    "symbol": "WIDE",
+    "decimals": 18
+  },
+  {
+    "address": "0x124AF7E624F69c0e851B76A3e062F557e3dcA99A",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-Opside-Testnet-Pre-Alpha/main/tokens/0x124AF7E624F69c0e851B76A3e062F557e3dcA99A.png",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18
+  }
+]
