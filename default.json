@@ -10,7 +10,7 @@
   },
   {
     "address": "",
-    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-Opside-Testnet-Pre-Alpha/main/tokens/0x4a56cF1dC528C04DEe7638B69417Bec6884BFac7.svg",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-Opside-Testnet-Pre-Alpha/main/tokens/0xD2Af4C638d9AF34405CDD6403F853Acb0774efe3.svg",
     "name": "IDE",
     "symbol": "IDE",
     "decimals": 18
@@ -38,8 +38,8 @@
     "github": "https://github.com/BlockNG-Foundation"
   },
   {
-    "address": "0x4a56cF1dC528C04DEe7638B69417Bec6884BFac7",
-    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-Opside-Testnet-Pre-Alpha/main/tokens/0x4a56cF1dC528C04DEe7638B69417Bec6884BFac7.svg",
+    "address": "0xD2Af4C638d9AF34405CDD6403F853Acb0774efe3",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-Opside-Testnet-Pre-Alpha/main/tokens/0xD2Af4C638d9AF34405CDD6403F853Acb0774efe3.svg",
     "name": "Wrapped IDE",
     "symbol": "WIDE",
     "decimals": 18
