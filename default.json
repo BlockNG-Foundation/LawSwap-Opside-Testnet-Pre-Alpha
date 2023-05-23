@@ -50,5 +50,19 @@
     "name": "Wrapped Ether",
     "symbol": "WETH",
     "decimals": 18
+  },
+  {
+    "address": "0x78bE7ab62921ec295a400Ef7414F2a01fFD5476F",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-Opside-Testnet-Pre-Alpha/main/tokens/0x78bE7ab62921ec295a400Ef7414F2a01fFD5476F.png",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 18
+  },
+  {
+    "address": "0x80920B48664b45c8FD9C2f4201AcFf6249c72768",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-Opside-Testnet-Pre-Alpha/main/tokens/0x80920B48664b45c8FD9C2f4201AcFf6249c72768.png",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 18
   }
 ]
