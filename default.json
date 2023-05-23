@@ -45,8 +45,8 @@
     "decimals": 18
   },
   {
-    "address": "0x124AF7E624F69c0e851B76A3e062F557e3dcA99A",
-    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-Opside-Testnet-Pre-Alpha/main/tokens/0x124AF7E624F69c0e851B76A3e062F557e3dcA99A.png",
+    "address": "0x91753D74B3922B445f45a362e9B98e159A0340E1",
+    "image": "https://raw.githubusercontent.com/BlockNG-Foundation/LawSwap-Opside-Testnet-Pre-Alpha/main/tokens/0x91753D74B3922B445f45a362e9B98e159A0340E1.png",
     "name": "Wrapped Ether",
     "symbol": "WETH",
     "decimals": 18
